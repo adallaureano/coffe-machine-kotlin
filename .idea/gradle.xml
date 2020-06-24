@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Coffee Machine/task" />
+            <option value="$PROJECT_DIR$/Problems/Amount on account" />
+            <option value="$PROJECT_DIR$/Problems/Application as a class" />
+            <option value="$PROJECT_DIR$/Problems/Area printer" />
+            <option value="$PROJECT_DIR$/Problems/Bank account" />
+            <option value="$PROJECT_DIR$/Problems/Board game basics  Game" />
+            <option value="$PROJECT_DIR$/Problems/Board game basics  Player" />
+            <option value="$PROJECT_DIR$/Problems/Car" />
+            <option value="$PROJECT_DIR$/Problems/City population" />
+            <option value="$PROJECT_DIR$/Problems/Companion" />
+            <option value="$PROJECT_DIR$/Problems/Complex numbers" />
+            <option value="$PROJECT_DIR$/Problems/Composition" />
+            <option value="$PROJECT_DIR$/Problems/Constructor property" />
+            <option value="$PROJECT_DIR$/Problems/Currencies" />
+            <option value="$PROJECT_DIR$/Problems/Currency comparision" />
+            <option value="$PROJECT_DIR$/Problems/Cyclically shifting elements" />
+            <option value="$PROJECT_DIR$/Problems/Evaluate an expression" />
+            <option value="$PROJECT_DIR$/Problems/Fix me" />
+            <option value="$PROJECT_DIR$/Problems/Heron's formula" />
+            <option value="$PROJECT_DIR$/Problems/I like Kotlin" />
+            <option value="$PROJECT_DIR$/Problems/Individual taxes" />
+            <option value="$PROJECT_DIR$/Problems/Initializing an array" />
+            <option value="$PROJECT_DIR$/Problems/Initializing an array of integers" />
+            <option value="$PROJECT_DIR$/Problems/Initializing an array of longs" />
+            <option value="$PROJECT_DIR$/Problems/Just checking" />
+            <option value="$PROJECT_DIR$/Problems/Most common" />
+            <option value="$PROJECT_DIR$/Problems/Patient needs a doctor" />
+            <option value="$PROJECT_DIR$/Problems/Point2D" />
+            <option value="$PROJECT_DIR$/Problems/Quadratic equation" />
+            <option value="$PROJECT_DIR$/Problems/Reddit" />
+            <option value="$PROJECT_DIR$/Problems/Sine and cosine" />
+            <option value="$PROJECT_DIR$/Problems/The rainbow order" />
+            <option value="$PROJECT_DIR$/Problems/Triples" />
+            <option value="$PROJECT_DIR$/Problems/Volume of a cube" />
+            <option value="$PROJECT_DIR$/Problems/Vowels" />
+            <option value="$PROJECT_DIR$/Problems/Weather comparison" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
